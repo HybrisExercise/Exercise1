@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-content/personalizationsmartedit/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="npmancillary" exported="" />
+    <orderEntry type="module" module-name="smarteditwebservices" exported="" />
+    <orderEntry type="module" module-name="cmssmartedit" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="smartedit" exported="" />
+  </component>
+</module>

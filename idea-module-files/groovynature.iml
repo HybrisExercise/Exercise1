@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/groovynature/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-backoffice/personalizationintegrationbackoffice/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="personalizationintegration" exported="" />
+    <orderEntry type="module" module-name="personalizationservicesbackoffice" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

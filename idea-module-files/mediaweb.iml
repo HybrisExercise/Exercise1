@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="EXT" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/platform/ext/mediaweb/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="core" exported="" />
+  </component>
+</module>

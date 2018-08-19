@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/hybrisanalyticsaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

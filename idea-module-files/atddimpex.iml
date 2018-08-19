@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-atdd/atddimpex/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="atddengine" exported="" />
+  </component>
+</module>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/textfieldconfiguratortemplateservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+  </component>
+</module>

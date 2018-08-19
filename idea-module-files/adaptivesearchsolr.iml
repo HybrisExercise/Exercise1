@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/adaptivesearchsolr/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="solrfacetsearch" exported="" />
+    <orderEntry type="module" module-name="adaptivesearch" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-atddtests/xyformsatddtests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="xyformsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="atddimpex" exported="" />
+  </component>
+</module>

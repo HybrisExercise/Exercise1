@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/webroot/WEB-INF/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/webroot/WEB-INF/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-webservices/adaptivesearchwebservices/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="groovynature" exported="" />
+    <orderEntry type="module" module-name="webservicescommons" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

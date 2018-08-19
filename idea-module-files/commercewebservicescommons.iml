@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/commercewebservicescommons/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="webservicescommons" exported="" />
+    <orderEntry type="module" module-name="commercefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/auditreportservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-commerce/promotions">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/promotions/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="voucher" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

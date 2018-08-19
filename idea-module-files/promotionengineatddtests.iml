@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-atddtests/promotionengineatddtests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="couponservices" exported="" />
+    <orderEntry type="module" module-name="ruleengineatddtests" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

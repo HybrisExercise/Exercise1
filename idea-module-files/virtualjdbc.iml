@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/webroot/WEB-INF/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/webroot/WEB-INF/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/virtualjdbc/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

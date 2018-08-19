@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-atddtests/assistedserviceatddtests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="commerceservicesatddtests" exported="" />
+  </component>
+</module>

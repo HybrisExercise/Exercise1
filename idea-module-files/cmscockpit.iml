@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/webroot/WEB-INF/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/webroot/WEB-INF/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-content/cmscockpit/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="cms2lib" exported="" />
+    <orderEntry type="module" module-name="admincockpit" exported="" />
+    <orderEntry type="module" module-name="cockpit" exported="" />
+    <orderEntry type="module" module-name="basecommerce" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

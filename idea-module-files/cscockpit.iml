@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-channel/cscockpit/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ticketsystem" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cockpit" exported="" />
+  </component>
+</module>

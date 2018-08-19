@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-data/electronicsstore/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

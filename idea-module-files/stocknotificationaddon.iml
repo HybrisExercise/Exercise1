@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/stocknotificationaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="stocknotificationfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

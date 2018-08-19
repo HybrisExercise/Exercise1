@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-cockpit/admincockpit/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cockpit" exported="" />
+  </component>
+</module>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-webservices/previewpersonalizationweb/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="previewwebservices" exported="" />
+    <orderEntry type="module" module-name="personalizationservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

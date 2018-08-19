@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-customer-experience/personalizationyprofile/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="personalizationintegration" exported="" />
+    <orderEntry type="module" module-name="yaasconfiguration" exported="" />
+    <orderEntry type="module" module-name="personalizationintegrationbackoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

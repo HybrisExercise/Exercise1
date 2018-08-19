@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/assistedservicestorefront/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

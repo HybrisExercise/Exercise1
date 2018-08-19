@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/assistedserviceyprofileaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="assistedserviceyprofilefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

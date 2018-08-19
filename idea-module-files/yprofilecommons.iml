@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-integration/profile/yprofilecommons/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="yaasconfiguration" exported="" />
+    <orderEntry type="module" module-name="basecommerce" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

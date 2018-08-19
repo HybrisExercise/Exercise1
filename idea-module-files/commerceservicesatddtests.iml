@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-atddtests/commerceservicesatddtests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commercefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="atddimpex" exported="" />
+  </component>
+</module>

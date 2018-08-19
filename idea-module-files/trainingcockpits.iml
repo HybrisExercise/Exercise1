@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/classes" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/classes" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/training/trainingcockpits/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+    <orderEntry type="module" module-name="productcockpit" exported="" />
+    <orderEntry type="module" module-name="cmscockpit" exported="" />
+    <orderEntry type="module" module-name="reportcockpit" exported="" />
+    <orderEntry type="module" module-name="cscockpit" exported="" />
+  </component>
+</module>

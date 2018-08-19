@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-integration/assistedservicecustomerinterestsfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="customerinterestsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+  </component>
+</module>

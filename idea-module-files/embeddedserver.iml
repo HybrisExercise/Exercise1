@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/webroot/WEB-INF/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/webroot/WEB-INF/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.hybris.com/6.6.0/api/commercesuite/index.html" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/bin" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-platform-optional/embeddedserver/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>
